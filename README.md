@@ -3,7 +3,7 @@ Some nginx tips and tricks
 
 nginx reverse proxy config (aka weighted load balancer)
 
-https://phoenixnap.com/kb/nginx-reverse-proxy
+source: https://phoenixnap.com/kb/nginx-reverse-proxy
 
  Unlink Default Configuration File
 In the terminal, enter the following:
